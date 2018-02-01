@@ -54,7 +54,7 @@ bookmarks = {
 			
 		}
 		GER = {
-			history = GER_BLITZKRIEG_DESC
+ 			history = GER_BLITZKRIEG_DESC
 			ideology = fascism
 			ideas = {
 				sour_loser
